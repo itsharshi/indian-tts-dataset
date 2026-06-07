@@ -1,0 +1,23 @@
+{
+  "total_segments": 144,
+  "passed": 143,
+  "flagged": 1,
+  "flag_breakdown": {
+    "repetitive_asr": 1
+  },
+  "emotion_distribution": {
+    "conversational": 17,
+    "questioning": 57,
+    "formal": 27,
+    "motivational": 17,
+    "emphatic": 2,
+    "excited": 2,
+    "storytelling": 1,
+    "informational": 19,
+    "angry": 1,
+    "sad": 1
+  },
+  "flagged_ids": [
+    "en_01_seg056"
+  ]
+}

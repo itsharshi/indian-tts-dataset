@@ -1,0 +1,78 @@
+{
+  "indian_english": [
+    {
+      "id": "en_01",
+      "url": "https://www.youtube.com/watch?v=IBgAyth1P7M",
+      "channel": "The Seen and the Unseen",
+      "style": "conversational_podcast",
+      "duration_mins": 180,
+      "download_limit_mins": 50,
+      "notes": "Solo host Amit Varma, no music, very clean audio. Only downloading first 50 mins."
+    },
+    {
+      "id": "en_02",
+      "url": "https://www.youtube.com/watch?v=CqcqRQ94mYw",
+      "channel": "Josh Talks",
+      "style": "motivational_speech",
+      "duration_mins": 13,
+      "download_limit_mins": null,
+      "notes": "Single speaker on stage, varied emotion, good for excited and emphatic tags"
+    },
+    {
+      "id": "en_03",
+      "url": "https://www.youtube.com/watch?v=8R07ffiJMk4",
+      "channel": "NDTV",
+      "style": "news_formal",
+      "duration_mins": 7,
+      "download_limit_mins": null,
+      "notes": "Single anchor, formal delivery, clear diction. Short but high quality."
+    },
+    {
+      "id": "en_04",
+      "url": "https://www.youtube.com/watch?v=fwTRzApMCgs",
+      "channel": "NPTEL",
+      "style": "educational",
+      "duration_mins": 33,
+      "download_limit_mins": null,
+      "notes": "Single professor, neutral tone, studio-quality audio"
+    }
+  ],
+  "hindi": [
+    {
+      "id": "hi_01",
+      "url": "https://www.youtube.com/watch?v=_4TlSxUt-TY",
+      "channel": "Aaj Tak",
+      "style": "news_formal",
+      "duration_mins": 9,
+      "download_limit_mins": null,
+      "notes": "Single anchor. Watch first to confirm no panel guests."
+    },
+    {
+      "id": "hi_02",
+      "url": "https://www.youtube.com/watch?v=9eorW2IdK8M",
+      "channel": "Dhruv Rathee",
+      "style": "educational_informational",
+      "duration_mins": 20,
+      "download_limit_mins": null,
+      "notes": "Solo speaker, clean studio mic, very consistent quality"
+    },
+    {
+      "id": "hi_03",
+      "url": "https://www.youtube.com/watch?v=m8YDNnGJ4OY",
+      "channel": "Josh Talks Hindi",
+      "style": "motivational_speech",
+      "duration_mins": 18,
+      "download_limit_mins": null,
+      "notes": "Single speaker on stage, emotional variety, good for happy and excited tags"
+    },
+    {
+      "id": "hi_04",
+      "url": "https://youtu.be/fMsFjH9urDk",
+      "channel": "TEDx Talks",
+      "style": "motivational_speech",
+      "duration_mins": 22,
+      "download_limit_mins": null,
+      "notes": "Single speaker TEDx stage talk in Hindi, natural emotional range"
+    }
+  ]
+}
